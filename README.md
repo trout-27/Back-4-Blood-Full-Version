@@ -255,4 +255,4 @@ This repository serves as the official landing page for Back 4 Blood. The softwa
 **Get the most recent version of Back 4 Blood today!**
 
 ---
-**Last updated:** 2026-10-29 07:49:28 UTC
+**Last updated:** 2026-10-29 14:47:43 UTC
